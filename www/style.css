@@ -2,7 +2,7 @@
 
 path {
     stroke: white;
-    fill:paleturquoise !important;
+    fill:#6699CC !important;
 
     transition: fill .4s ease;
 }
